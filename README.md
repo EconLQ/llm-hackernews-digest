@@ -1,13 +1,14 @@
 ## How to locally run LLMs
 
-i've ran [Qwen3.7-4B-GGUF](https://huggingface.co/unsloth/Qwen3.5-4B-GGUF) on my shitbox for scrapping OLX.ua
+i've ran [Qwen3.7-4B-GGUF](https://huggingface.co/unsloth/Qwen3.5-4B-GGUF) on my shitbox for scrapping interesting news from [HackerNews](https://news.ycombinator.com/).
 
-shitbox specs:
+my shitbox specs:
+```txt
 OC: win10 (22H2)
 CPU: Intel core i7-3740QM 2.7 GHz
 RAM: 16 GB DDR3
 GPU: Inter(R) HD Graphics 4000 (32MB)
-
+```
 ### What to check before ran
 
 1. Check hardware
